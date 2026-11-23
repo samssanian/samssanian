@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**samssanian/samssanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ☁️ THE AKATSUKI REALM ☁️
 
-Here are some ideas to get you started:
+![Itachi](https://media.giphy.com/media/134s7iciN3wDZe/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&color=FF0000&center=true&vCenter=true&width=500&lines=YOU+ARE+ALREADY+UNDER+MY+GENJUTSU;KNOW+PAIN.+ACCEPT+PAIN.;WAKE+UP+TO+REALITY..." />
+
+![Sharingan](https://media.giphy.com/media/Mlx5hjAPRMlYQ/giphy.gif)
+
+### ◉ THE CYCLE OF HATRED NEVER ENDS ◉
+
+![Pain](https://media.giphy.com/media/hMAhEUs3fwObC/giphy.gif)
+
+</div>
